@@ -38,7 +38,6 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/your-username/your-portfolio-repo.git
-   
+   git clone https://github.com/7997275647/Personal_Portfolio.git
    ```
 
