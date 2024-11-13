@@ -10,7 +10,6 @@ Welcome to my personal portfolio project! This project showcases my skills, expe
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ---
@@ -40,4 +39,15 @@ To run this project locally, follow these steps:
    ```
    git clone https://github.com/7997275647/Personal_Portfolio.git
    ```
+## Usage
+
+Simply open the index.html file in a web browser to view the portfolio. No additional setup or dependencies are needed since this project only uses HTML and CSS.   
+
+## Contact 
+
+For any inquiries, feel free to reach out via:
+
+- Email: modugusandy@gmail.com
+- LinkedIn: [Click Here!](https://www.linkedin.com/in/sandeep-reddy-modugu-5278a3163)
+- GitHub: https://github.com/7997275647
 
